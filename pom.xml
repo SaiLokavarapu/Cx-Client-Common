@@ -180,7 +180,7 @@
         <dependency>
             <groupId>com.checkmarx</groupId>
             <artifactId>cx-ws-fs-agent</artifactId>
-            <version>20.0.11</version>
+            <version>24.0.0</version>
             <exclusions>
             	<exclusion>
                     <artifactId>guava</artifactId>
@@ -204,7 +204,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>5.3.5</version>
+            <version>6.2.10</version>
         </dependency>
         <!-- end of excluded dependencies -->
         <dependency>
